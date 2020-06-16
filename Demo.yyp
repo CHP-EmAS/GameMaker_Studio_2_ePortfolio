@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "2c206221-1557-47a0-975e-15a68b752410",
+            "Value": {
+                "id": "44aa7d8a-c584-429b-bbbc-f20f5fb5831f",
+                "resourcePath": "scripts\\scr_Hero_collision\\scr_Hero_collision.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3399fd76-174f-40dc-8afc-a6031e903fe1",
             "Value": {
                 "id": "7bb0bd9a-a685-4647-b437-58b6e4b5f8c9",
@@ -175,10 +183,26 @@
             }
         },
         {
+            "Key": "c3c16199-bffa-4a63-b6e5-56540fd3b19d",
+            "Value": {
+                "id": "a05675b0-f066-4eed-9d9f-b873fdc264d5",
+                "resourcePath": "tilesets\\ts_collision\\ts_collision.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "c7acedd6-7a82-4f42-b08f-00ce27694e6d",
             "Value": {
                 "id": "dc571755-0e58-41c4-96c4-ecf0b2b71be9",
                 "resourcePath": "sprites\\spr_Hero_walk\\spr_Hero_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ca49e6e9-52a0-4cdc-b580-53db131d185d",
+            "Value": {
+                "id": "affebd35-45ed-449f-8ee8-403476b43b7c",
+                "resourcePath": "sprites\\spr_collison\\spr_collison.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -249,7 +273,8 @@
     ],
     "script_order": [
         "5fe5fbfa-deba-44b3-8191-37108750db1d",
-        "aca15b87-2f0d-4dec-bae7-373f17cb456f"
+        "aca15b87-2f0d-4dec-bae7-373f17cb456f",
+        "2c206221-1557-47a0-975e-15a68b752410"
     ],
     "tutorial": ""
 }

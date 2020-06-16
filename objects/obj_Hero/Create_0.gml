@@ -1,3 +1,7 @@
+collisionMap = layer_tilemap_get_id(layer_get_id("Collision_Layer"));
+
+
+
 image_speed = 0;
 
 h_speed = 0;

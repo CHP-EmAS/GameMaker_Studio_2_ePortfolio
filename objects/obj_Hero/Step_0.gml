@@ -15,8 +15,7 @@ input_magnitude = (key_right - key_left != 0) or (key_down - key_up != 0);
 h_speed = lengthdir_x(input_magnitude * speed_walk, input_direction);
 v_speed = lengthdir_y(input_magnitude * speed_walk, input_direction);
 
-x += h_speed;
-y += v_speed;
+scr_Hero_collision();
 
 //Update Sprite Index
 var _old_sprite = sprite_index;
